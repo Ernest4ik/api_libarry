@@ -1,0 +1,8 @@
+fastapi
+pydantic
+PyJWT
+requests
+passlib
+bcrypt==4.0.1
+sqlalchemy
+psycopg2==2.9.9
